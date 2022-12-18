@@ -1,0 +1,22 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 3px;
+    width:80%;
+}
+h2{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+.Education{
+    border: solid 2px;
+}
+#pic{
+    border: solid 5px;
+}
